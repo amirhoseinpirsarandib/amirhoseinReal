@@ -15,10 +15,11 @@
 
 ### 🚀 My Projects
 
-- [Coffee Sales Project in Excel](https://github.com/amirhoseinpirsarandib/excel-project-coffee-sales-main)
+- [Nurse Scheduling Problem in Python](https://github.com/pirsarandib/nurse_scheduling_problem)
 - [Data Analyst Job Market Analysis in SQL](https://github.com/amirhoseinpirsarandib/sql_project_data_jobs)
 - [Data Analyst Job Market Analysis in Python](https://github.com/pirsarandib/python_project_data_jobs/tree/main)
-  
+- [Machine Learning Projects](https://github.com/pirsarandib/Machine_Learning)
+
 
 ### ⚙️ Tech Stack
 
